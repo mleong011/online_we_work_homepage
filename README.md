@@ -3,7 +3,7 @@
 * This code was created and run using Flutter on Android Studio.
 
 
-##Requirements
+## Requirements
 * Any IDE with Flutter SDK installed.
 
 
@@ -15,5 +15,5 @@
 ## Notes
 This was my first time working with Android Studio and Dart. 
 It was overwhelming at first, but I was able to learn a lot about the Dart language and its similarities to Java. 
-I was able to learns how to use widgets and provide some degree of functionality.
+Learned how to use widgets and provide some degree of functionality.
 Towards the end I was able to send up a clickable to lead to another dart file, which was very exciting!
